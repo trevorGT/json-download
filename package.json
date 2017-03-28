@@ -1,0 +1,19 @@
+{
+  "name": "json-download",
+  "dependencies": {
+    "egg": "^1.0.0"
+  },
+  "scripts": {
+    "start": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "private": true,
+  "devDependencies": {
+    "egg-bin": "1",
+    "egg-mock": "2",
+    "supertest": "2",
+    "eslint": "^3.18.0",
+    "eslint-config-egg": "^3.2.0"
+  }
+}

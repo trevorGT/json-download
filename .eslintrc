@@ -1,0 +1,6 @@
+{
+  "extends": "egg",
+  "parserOptions": {
+    "ecmaVersion": 8
+  }
+}
